@@ -1,2 +1,2 @@
-# BPA_CL
+# FSC: FocusPart Meets SEText in CrossTri for Skeleton-Based Action Recognition
 It will be released later......
